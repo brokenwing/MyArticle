@@ -1,0 +1,90 @@
+旅行者 (Traveler) 人物设定参考
+
+基本信息 (Basic Information)
+
+名称 (Name): 空 (Aether) 或 荧 (Lumine) - 由玩家选择
+
+称号 (Title): 旅行者 (Traveler)
+
+种族 (Race): 外来者 (Outlander) / 异世界来客 (Visitor from another world) - 非提瓦特 (Teyvat) 原住民
+
+神之眼 (Vision): 无 (None) - 通过与七天神像 (Statues of The Seven) 共鸣获得元素力 (Elemental Power)
+
+武器 (Weapon): 单手剑 (Sword) - 可以使用其他武器类型，但在剧情中通常使用单手剑
+
+所属 (Affiliation): 无特定组织 (No specific organization) - 与派蒙 (Paimon) 一起旅行
+
+人物背景 (Background)
+
+旅行者和TA的双胞胎兄妹/姐妹 (Twin Sibling) 来自另一个世界，在提瓦特大陆经历了灾难，与亲人失散。TA被“天理” (The Sustainer of Heavenly Principles) 封印力量并沉睡了数百年甚至上千年。醒来后，TA的首要目标是寻找失散的亲人，并与派蒙一起踏上了旅途。
+为了寻找亲人，旅行者需要游历提瓦特大陆的七个国家，并与各地的神明 (Archons) 和居民建立联系。在旅途中，旅行者逐渐卷入了提瓦特的各种事件和冲突中。
+
+人物性格与特点 (Personality & Traits)
+
+坚韧 (Resilient): 面对困难和挑战时，表现出极强的毅力和决心。
+
+善良 (Kind): 乐于助人，关心他人，常常为了帮助别人而卷入事件。
+
+好奇 (Curious): 对提瓦特大陆的一切都充满好奇心，渴望了解这个世界的秘密。
+
+适应性强 (Adaptable): 能够快速适应不同的环境和文化。
+
+沉默寡言 (Quiet/Reserved): 在游戏剧情中，旅行者通常通过派蒙来表达想法，自己说话的机会较少。这使得TA在对话中显得有些沉默或内敛。
+
+观察力强 (Observant): 虽然话不多，但常常能注意到细节，并从不同角度思考问题。
+
+对亲人的执着 (Devoted to Sibling): 寻找失散的亲人是TA最核心的动机，一切行动都围绕着这个目标展开。
+
+对派蒙的依赖 (Relies on Paimon): 派蒙是TA的主要对话代理人，也是TA在提瓦特的重要伙伴和向导。
+
+对话风格与习惯 (Speech Style & Habits)
+
+通常由派蒙代为发言 (Usually speaks through Paimon): 这是旅行者最显著的对话特点。在小说中，您可以设计旅行者通过表情、动作或简短的词语来回应，而由派蒙进行更详细的表达。
+
+简短直接 (Brief and Direct): 当旅行者自己说话时，通常语言简练，直奔主题。
+
+提问 (Asking Questions): 旅行者常常通过提问来获取信息，推动剧情发展。
+
+表达决心 (Expressing Determination): 在关键时刻，旅行者会直接表达自己的决心和立场。
+
+回应派蒙 (Responding to Paimon): 与派蒙的互动是对话的重要组成部分，可以通过简短的回应或非语言交流来表现。
+
+人际关系 (Relationships)
+
+派蒙 (Paimon): 最亲密的伙伴，形影不离。派蒙是旅行者的向导、翻译和主要对话者。他们的互动充满了默契和一些小打小闹。
+
+失散的亲人 (Lost Sibling): 旅行者一切行动的最终目标。TA对亲人有着深厚的感情和强烈的寻找欲望。
+
+提瓦特各地的居民 (Residents of Teyvat): 旅行者在旅途中会遇到形形色色的人，与他们建立友谊或合作关系。TA通常对他们持友好和尊重的态度。
+
+七神 (The Seven Archons): 旅行者需要与每个国家的七神互动，了解他们的故事和国家的秘密。
+
+其他重要角色 (Other Key Characters): 与游戏中的许多重要角色都有互动，这些互动会根据角色的性格和关系而有所不同。
+
+互动对话要点 (Key Points for Dialogue Interaction)
+
+与派蒙的配合 (Coordination with Paimon): 设计旅行者和派蒙之间的对话分工。派蒙负责大部分的发言和解释，旅行者则通过简短回应、表情或行动来补充。
+
+对新事物的反应 (Reactions to New Things): 旅行者作为一个外来者，对提瓦特的许多事物都会感到新奇。在对话中可以表现出TA的好奇心和学习过程。
+
+对不同文化的适应 (Adapting to Different Cultures): 在不同的国家，旅行者会接触到不同的文化和习俗。在对话中可以体现TA如何理解和适应这些差异。
+
+表达情感 (Expressing Emotions): 尽管话不多，旅行者也会表达情感。可以通过非语言描写（如眼神、动作）或简短有力的语言来表现TA的喜悦、担忧、愤怒或悲伤。
+
+对亲人的思念 (Longing for Sibling): 在某些对话中，可以巧妙地穿插旅行者对失散亲人的思念，这是TA内心深处最重要的一部分。
+
+解决问题的能力 (Problem-Solving): 旅行者在对话中常常需要分析情况、提出问题或给出建议，体现TA解决问题的能力。
+
+写作建议 (Writing Suggestions)
+
+利用非语言描写 (Utilize Non-Verbal Description): 由于旅行者话少，通过描写TA的表情、动作、眼神来传达情感和想法至关重要。
+
+突出派蒙的作用 (Highlight Paimon's Role): 派蒙是旅行者对话的“代言人”，确保派蒙的对话风格符合其设定（活泼、有时有点贪吃、忠诚）。
+
+区分不同情境下的对话 (Differentiate Dialogue in Different Situations): 旅行者在面对朋友、敌人、神明或普通人时，对话方式和态度可能会有所不同。
+
+展现内心的想法 (Show Inner Thoughts): 如果是第一人称视角的小说，可以通过内心独白来展现旅行者不为人知的想法和情感。如果是第三人称，可以通过描写TA的反应来暗示。
+
+保持神秘感 (Maintain a Sense of Mystery): 旅行者的过去和力量来源本身带有神秘色彩，在对话中可以适当保留一些未解之谜。
+
+希望这些信息能帮助您更好地理解旅行者这个角色，并在您的小说创作中塑造出令人信服的人物互动对话！
